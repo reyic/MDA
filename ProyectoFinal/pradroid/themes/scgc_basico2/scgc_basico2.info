@@ -1,0 +1,48 @@
+name = SCGC_2
+description = Tema creado como ejercicio para SCGC.
+core = 7.x 
+
+;REGIONES
+regions[sidebar_first]  = Lateral izquierdo
+regions[sidebar_second] = Lateral derecho
+regions[content] = Contenido
+regions[header] = Cabecera
+regions[footer] = Pie de página
+regions[highlighted] = Destacado
+regions[help] = Ayuda
+regions[page_top] = Tope de página
+regions[page_bottom] = Pie de página
+
+;MOTOR DRUPAL
+engine = phptemplate
+
+;CARACTERÍSTICAS
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+;CONFIGURACIÓN DEL TEMA
+settings[toggle_logo] = 1
+settings[toggle_name] = 1
+settings[toggle_slogan] = 1
+settings[toggle_node_user_picture] = 1
+settings[toggle_comment_user_picture] = 1
+settings[toggle_comment_user_verification] = 1
+settings[toggle_favicon] = 1
+settings[toggle_main_menu] = 1
+settings[toggle_secondary_menu] = 1
+
+;CSS utilizados
+;CSS para todos los medios
+stylesheets[all][] = estilo.css
+
+;Captura del tema por defecto
+screenshot = screenshot.png
+
+;SCRIPT

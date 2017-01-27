@@ -1,0 +1,5 @@
+name = SCyGC1 - Hello world  
+description = Hook menu and urls ("callbacks")
+core = 7.x
+package = SCyGC
+version = 7.x-1.0

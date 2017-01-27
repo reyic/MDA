@@ -1,0 +1,68 @@
+<?php
+/**
+* @file
+* A simple example of hook_menu and callbacks
+*/
+
+/**
+* Hooks
+**/
+
+/**
+* Implements hook_menu().
+*
+*/
+ function scygc1_menu() {
+ 
+//URLs prefixed with the module name to avoid conflicts
+	
+   $items['scygc1/hello'] = array( //'scygc1/hello' es la url del modulo. Despues, tantos elementos(suburl como necesite)
+      'page callback' => 'scygc1_hello', //Cuando este cargado el modulo, llama a la funcion scgc1_hello.
+      'access arguments' => array('access content'), //Argumentos de acceso.
+      'type' => MENU_CALLBACK, //hay que decir que es un menu de tipo callback (se le pasan urls).
+    );
+   
+   $items['scygc1/test'] = array(
+      'page callback' => 'scygc1_test',
+      'access arguments' => array('access content'),
+      'type' => MENU_CALLBACK,
+    );
+    return $items;
+  }
+
+  
+/**
+* Page callbacks
+**/
+
+/**
+*
+* Displays hello world.
+*
+*/
+
+function scygc1_hello () {
+  //print t("Hello world"); 
+  drupal_deliver_page (t("Hello world")); //t("texto ") hay que ponerlo siempre que se quiera ostrar un texto.
+  }
+  
+/**
+*
+* Displays a message.
+*
+* @param message
+*   Message to be displayed supplied as argument in the URL
+*     Example: test/message
+*/
+
+function scygc1_test ($message="No message") {//esta funcion se supone que traduce la cadena que se le pase como argumento.
+//la llamada sería scgc/test/"argumento".
+  
+  //echo t($message); //t() for translation
+  drupal_deliver_page (t($message));
+  }
+  
+  
+  
+  
+  

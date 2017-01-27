@@ -1,0 +1,97 @@
+﻿
+PRADROID
+
+Practica 0 y 1
+
+MDA
+
+
+
+
+Alejandro José Reyes Portellano
+Sergio Gallardo Navarro
+Adrián Lara Roldán
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.Título del proyecto y pequeña descripción del mismo (en base a la descripción de un problema y una posible solución).
+
+Nuestro proyecto se llama Pradroid, es una aplicación móvil, en el que queremos adaptar el sistema de PRADO de la UGR a una versión móvil.
+
+1.1 Descripción del problema:
+
+	La vista de la plataforma prado en el móvil, es poco intuitiva, con una 	interfaz pobre en la que no se adapta a la mayoría de dispositivos.
+
+	Muchos de los servicios que se ofrecen en la web de prado no son 	adaptables al móvil, como por ejemplo la descarga de documentos PDF.
+
+1.2 Solución al problema:
+	
+	La realización de una aplicación móvil que corrija los fallos que muestra 	PRADO y que elimine parte de la interfaz que sea innecesaria a la hora de 	la adaptación al móvil.
+
+	Implementar un sistema de avisos para que avise, tanto la subida de 	contenidos nuevos como las distintas entregas que se habiliten por parte 	de los profesores.
+	
+2.Lista de asignación de roles del grupo de trabajo.
+	
+	Coordinador:Alejandro
+	Catalogador:Adrián
+	Moderador:Adrián 
+	Presentador:Sergio
+	Gestor de calidad:Alejandro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.Mapa Mental realizado durante la reunión o reuniones de creación de ideas.
+
+
+
+	
+
+
+	
