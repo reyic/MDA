@@ -1,0 +1,468 @@
+.bodyD{
+	background-color: black;
+}
+#titul{
+	float:left;
+	background-color:;
+	height:180px;
+	width:100%;	
+}
+.mejora{
+	margin-left:6%;
+	margin-top: 1%;
+}
+.cuerpo{
+	float:left;
+	background-color: #A9A9A9;
+	height:3000px;
+	width: 85%;
+	margin-left: 7%;
+	border-radius: 20px;
+
+}
+.cuerpo1{
+	float:left;
+	background-color: black;
+	height:6000px;
+	width: 85%;
+	margin-left: 7%;
+	border-radius: 20px;
+
+}
+
+.iteraciones{
+	float:left;
+	margin-left: 20px;
+	margin-top:70px;
+	background-color: red;
+	background-image:url('tabla.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height:800px;
+	width:60%;
+
+}
+.bd{
+	float:left;
+	background-image:url('BD.png'); 
+	background-size:156.8% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.iz{
+	float:left;
+}
+.cajaslider{
+	float:left;
+	height: 480px;
+	width: 85%;
+	margin-left: 90px;
+	background-color: red;
+}
+.mar_tit{
+	margin-left: 25px;
+}
+.limpiar{
+	clear:both;
+}
+.titulos{
+	color:white;
+	text-shadow: rgb(255, 255, 255) 0px -1px 4px, rgb(77, 77, 255) 0px -2px 10px, rgb(50,153,204) 0px -10px 20px, rgb(0, 0, 156) 0px -18px 40px;
+}
+.ideas{
+	float:left;
+	margin-left: 90px;
+	background-color: red;
+	height:700px;
+	width:85%;
+	background-image:url('png.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+
+}
+.ideas{
+	float:left;
+	margin-left: 90px;
+	background-color: red;
+	height:700px;
+	width:85%;
+	background-image:url('png.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+
+}
+.relleno{
+	float:left;
+	margin-left: 90px;
+	background-color: white;
+	height:200px;
+	width:85%;
+	
+}
+.ideas1{
+	float:left;
+	margin-left: 90px;
+	background-color: red;
+	height:700px;
+	width:85%;
+	background-image:url('inicio.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+
+}
+.fo2{
+	float:left;
+	margin-left: 7%;
+	margin-bottom: 1%;
+	background-color: black;
+	width: 85%;
+	height: 100px;
+}
+.men{
+	float:left;
+	background-image:url('mensajeria.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.men1{
+	float:left;
+	background-image:url('gestion-perfil.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.men2{
+	float:left;
+	background-image:url('solicitud-cuenta.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.men3{
+	float:left;
+	background-image:url('chat.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.men4{
+	float:left;
+	background-image:url('nueva-contraseña.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.men5{
+	float:left;
+	background-image:url('ver-eventos-calendario.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.admin1{
+	float:left;
+	background-image:url('estadisticas.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin2{
+	float:left;
+	background-image:url('lista-alumnos.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin3{
+	float:left;
+	background-image:url('lista-asignaturas.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin4{
+	float:left;
+	background-image:url('lista-grupos.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin5{
+	float:left;
+	background-image:url('lista-profesores.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin6{
+	float:left;
+	background-image:url('nueva asignatura.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin7{
+	float:left;
+	background-image:url('nuevo alumno.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin8{
+	float:left;
+	background-image:url('nuevo-evento-calendario.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.admin9{
+	float:left;
+	background-image:url('nuevo grupo.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+
+.admin10{
+	float:left;
+	background-image:url('nuevo profesor.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.admin11{
+	float:left;
+	background-image:url('principal-admin.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.profe1{
+	float:left;
+	background-image:url('mis-asignaturas.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.profe2{
+	float:left;
+	background-image:url('nueva-calificacion.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.fin{
+	float:left;
+	margin-left: 90px;
+	background-color: white;
+	height:500px;
+	width:85%;
+}
+.profe3{
+	float:left;
+	background-image:url('nuevo trabajo.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.profe4{
+	float:left;
+	background-image:url('principal.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.profe5{
+	float:left;
+	background-image:url('trabajos-entregas-asignatura.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%;
+}
+.alum1{
+	float:left;
+	background-image:url('confirmacion-entrega.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.alum2{
+	float:left;
+	background-image:url('mis-asignaturas-alu.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.alum3{
+	float:left;
+	background-image:url('nueva-entrega.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.alum4{
+	float:left;
+	background-image:url('principal-alu.png'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+
+.PI1{
+	float:left;
+	background-image:url('1.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.PI2{
+	float:left;
+	background-image:url('2.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+
+.PI3{
+	float:left;
+	background-image:url('3.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.PI4{
+	float:left;
+	background-image:url('4.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.PI5{
+	float:left;
+	background-image:url('5.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
+.PI6{
+	float:left;
+	background-image:url('6.jpg'); 
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 90px;
+	background-color: red;
+	height:500px;
+	width:85%
+
+}
